@@ -9,8 +9,6 @@ readtime: false
 tags: ["cachorro quente / hotdog"]
 ---
 
-> Venha conhecer esse salão que eu não sei de quem é!
-
 <div class="container">
   <div class="div-video">
     <center>

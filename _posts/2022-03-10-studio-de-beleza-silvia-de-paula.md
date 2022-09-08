@@ -9,8 +9,6 @@ readtime: false
 tags: ["cabeleireira"]
 ---
 
-> Venha conhecer esse salão que eu não sei de quem é!
-
 <div class="container">
   <div class="div-video">
     <center>
